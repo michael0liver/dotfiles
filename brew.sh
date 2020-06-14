@@ -37,6 +37,7 @@ brew cask install iina
 brew cask install whatsapp
 brew cask install spotify
 brew cask install spotmenu
+brew cask install slack
 
 
 

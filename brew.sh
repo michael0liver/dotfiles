@@ -38,6 +38,8 @@ brew cask install whatsapp
 brew cask install spotify
 brew cask install spotmenu
 brew cask install slack
+brew cask install background-music
+brew cask install maccy
 
 
 

@@ -42,6 +42,8 @@ brew cask install background-music
 brew cask install maccy
 brew cask install dozer
 
+brew install postgresql
+
 
 
 # Install JetBrains Mono font

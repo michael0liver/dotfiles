@@ -43,6 +43,7 @@ brew cask install maccy
 brew cask install dozer
 
 brew install postgresql
+brew install cask postman
 
 
 

@@ -43,6 +43,8 @@ brew cask install bitwarden
 brew cask install postman
 brew cask install notion
 brew cask install raindropio
+brew cask install plex
+brew cask install plexamp
 
 
 # Install JetBrains Mono font

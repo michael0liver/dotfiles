@@ -45,7 +45,7 @@ brew cask install notion
 brew cask install raindropio
 brew cask install plex
 brew cask install plexamp
-
+brew cask install nordvpn
 
 # Install JetBrains Mono font
 brew tap homebrew/cask-fonts

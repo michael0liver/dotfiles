@@ -40,7 +40,9 @@ brew cask install background-music
 brew cask install maccy
 brew cask install dozer
 brew cask install bitwarden
-brew install cask postman
+brew cask install postman
+brew cask install notion
+brew cask install raindropio
 
 
 # Install JetBrains Mono font

@@ -17,6 +17,8 @@ brew install node
 brew install postgresql
 brew install python@3.8
 brew install poetry
+brew install azure-cli
+brew install awscli
 
 
 # Install MacOS Applications

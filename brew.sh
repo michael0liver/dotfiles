@@ -49,6 +49,10 @@ brew cask install plex
 brew cask install plexamp
 brew cask install nordvpn
 
+# Install alternate versions of casks
+brew tap homebrew/cask-versions
+brew cask install firefox-nightly
+
 # Install JetBrains Mono font
 brew tap homebrew/cask-fonts
 brew cask install font-jetbrains-mono

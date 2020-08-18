@@ -48,6 +48,7 @@ brew cask install raindropio
 brew cask install plex
 brew cask install plexamp
 brew cask install nordvpn
+brew cask install beekeeper-studio
 
 # Install alternate versions of casks
 brew tap homebrew/cask-versions

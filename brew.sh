@@ -49,6 +49,8 @@ brew cask install plex
 brew cask install plexamp
 brew cask install nordvpn
 brew cask install beekeeper-studio
+brew cask install tor-browser
+brew install github/gh/gh
 
 # Install alternate versions of casks
 brew tap homebrew/cask-versions

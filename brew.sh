@@ -19,6 +19,8 @@ brew install python@3.8
 brew install poetry
 brew install azure-cli
 brew install awscli
+brew install github/gh/gh
+brew install openapi-generator
 
 
 # Install MacOS Applications
@@ -50,7 +52,8 @@ brew cask install plexamp
 brew cask install nordvpn
 brew cask install beekeeper-studio
 brew cask install tor-browser
-brew install github/gh/gh
+brew cask install github
+brew cask install karabiner-elements
 
 # Install alternate versions of casks
 brew tap homebrew/cask-versions

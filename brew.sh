@@ -16,14 +16,22 @@ brew install httpie
 brew install node
 brew install postgresql
 brew install python@3.8
+brew install pipx
+brew install pyenv
 brew install poetry
 brew install azure-cli
 brew install awscli
 brew install github/gh/gh
 brew install openapi-generator
+brew install kubernetes-cli
+brew install go
+brew install redis
 
+brew install mkcert
+brew install nss # if you use Firefox
 
 # Install MacOS Applications
+brew cask install joplin
 brew cask install google-chrome
 brew cask install firefox  # Remember to install english language pack
 brew cask install iterm2
@@ -54,6 +62,9 @@ brew cask install beekeeper-studio
 brew cask install tor-browser
 brew cask install github
 brew cask install karabiner-elements
+brew cask install ngrok
+brew cask install discord
+brew cask install sketch
 
 # Install alternate versions of casks
 brew tap homebrew/cask-versions

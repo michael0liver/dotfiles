@@ -27,6 +27,7 @@ brew install kubernetes-cli
 brew install go
 brew install redis
 
+brew install certbot
 brew install mkcert
 brew install nss # if you use Firefox
 

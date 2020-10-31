@@ -31,6 +31,8 @@ brew install certbot
 brew install mkcert
 brew install nss # if you use Firefox
 
+brew install watchman
+
 # Install MacOS Applications
 brew cask install joplin
 brew cask install google-chrome

@@ -32,6 +32,7 @@ brew install mkcert
 brew install nss # if you use Firefox
 
 brew install watchman
+brew install cocoapods
 
 # Install MacOS Applications
 brew cask install joplin

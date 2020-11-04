@@ -12,6 +12,7 @@ compaudit | xargs chmod g-w
 brew install git
 brew install tree
 brew install starship
+brew install tmux
 brew install httpie
 brew install node
 brew install postgresql
@@ -39,6 +40,7 @@ brew cask install joplin
 brew cask install google-chrome
 brew cask install firefox  # Remember to install english language pack
 brew cask install iterm2
+brew cask install alacritty
 brew cask install visual-studio-code
 brew cask install jetbrains-toolbox
 brew cask install docker

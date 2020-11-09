@@ -71,10 +71,11 @@ brew cask install karabiner-elements
 brew cask install ngrok
 brew cask install discord
 brew cask install sketch
+brew cask install eul
 
 # Install alternate versions of casks
-brew tap homebrew/cask-versions
-brew cask install firefox-nightly
+#brew tap homebrew/cask-versions
+#brew cask install firefox-nightly
 
 # Install JetBrains Mono font
 brew tap homebrew/cask-fonts
